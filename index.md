@@ -1,3 +1,27 @@
+# There comes the task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # First Header for this
 
 ## And a second one
